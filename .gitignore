@@ -1,0 +1,6 @@
+/packages
+obj
+bin
+/.vs/DigitalParadox.HandlebarsCli/v15/*.suo
+/src/DigitalParadox.HandlebarsCli/*.user
+.vs

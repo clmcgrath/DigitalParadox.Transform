@@ -1,6 +1,0 @@
-c:\users\christopher.mcgrath\documents\visual studio 2017\Projects\DigitalParadox.SlowCheetah.CLI\DigitalParadox.SlowCheetah.CLI\bin\Debug\netstandard2.0\DigitalParadox.SlowCheetah.deps.json
-c:\users\christopher.mcgrath\documents\visual studio 2017\Projects\DigitalParadox.SlowCheetah.CLI\DigitalParadox.SlowCheetah.CLI\bin\Debug\netstandard2.0\DigitalParadox.SlowCheetah.dll
-c:\users\christopher.mcgrath\documents\visual studio 2017\Projects\DigitalParadox.SlowCheetah.CLI\DigitalParadox.SlowCheetah.CLI\obj\Debug\netstandard2.0\DigitalParadox.SlowCheetah.csprojResolveAssemblyReference.cache
-c:\users\christopher.mcgrath\documents\visual studio 2017\Projects\DigitalParadox.SlowCheetah.CLI\DigitalParadox.SlowCheetah.CLI\obj\Debug\netstandard2.0\DigitalParadox.SlowCheetah.csproj.CoreCompileInputs.cache
-c:\users\christopher.mcgrath\documents\visual studio 2017\Projects\DigitalParadox.SlowCheetah.CLI\DigitalParadox.SlowCheetah.CLI\obj\Debug\netstandard2.0\DigitalParadox.SlowCheetah.AssemblyInfoInputs.cache
-c:\users\christopher.mcgrath\documents\visual studio 2017\Projects\DigitalParadox.SlowCheetah.CLI\DigitalParadox.SlowCheetah.CLI\obj\Debug\netstandard2.0\DigitalParadox.SlowCheetah.AssemblyInfo.cs

@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="xunit" Version="2.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TransformTool.Plugins\TransformTool.Plugins.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DigitalParadox.Parsers">
+      <HintPath>C:\Users\christopher.mcgrath\.nuget\packages\digitalparadox.parsers\1.0.6\lib\netstandard2.0\DigitalParadox.Parsers.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalParadox.Plugins.Loader">
+      <HintPath>C:\Users\christopher.mcgrath\.nuget\packages\digitalparadox.plugins.loader\1.0.17\lib\netstandard2.0\DigitalParadox.Plugins.Loader.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
